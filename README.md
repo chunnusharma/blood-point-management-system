@@ -106,7 +106,7 @@ blood-point-management-system/
 
 ---
 
-## 🗄 Database
+## 🗄 DataBase
 
 The project uses a MySQL database named:
 
